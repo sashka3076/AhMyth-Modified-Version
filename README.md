@@ -68,4 +68,4 @@ AhMyth is an popular open source android rat. But the official AhMyth contains m
 
 #### Join Our Facebook Group : <a href="https://www.facebook.com/groups/hiddenpirates/"> @Facebook </a>
 
-#### Our Official Website : <a href="https://www.hidden-pirates.blogspot.com"> @Hidden Pirates </a>
+#### Our Official Website : <a href="http://hidden-pirates.blogspot.com"> @Hidden Pirates </a>
