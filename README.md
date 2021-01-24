@@ -67,3 +67,5 @@ AhMyth is an popular open source android rat. But the official AhMyth contains m
 #### Google Play Store Profile : <a href="https://play.google.com/store/apps/dev?id=5002650060821952731"> @Google Play Store </a>
 
 #### Join Our Facebook Group : <a href="https://www.facebook.com/groups/hiddenpirates/"> @Facebook </a>
+
+#### Our Official Website : <a href="https://www.hidden-pirates.blogspot.com"> @Hidden Pirates </a>
