@@ -32,7 +32,7 @@ AhMyth is an popular open source android rat. But the official AhMyth contains m
  - Due to the background limitation of Android 10 and 11, the started service has been removed and the foreground service has been added. So you should turn off the application notification from the setting.
 
 ## Prerequisites
-- Java 8 (to generate apk backdoor)
+- Open JDK 8 (to generate apk backdoor)
 
 ## Getting Started
 
@@ -42,7 +42,7 @@ AhMyth is an popular open source android rat. But the official AhMyth contains m
 
 ##### Prerequisites
  - Electron (to start the app)
- - Java 8
+ - Open JDK 8
  - Node.js (Node.js Package Manager)
  - Electron-packer (to build binaries for (OSX,WINDOWS,LINUX))
  - `git clone https://github.com/HiddenPirates/AhMyth-Modified-Version.git`
@@ -54,7 +54,7 @@ AhMyth is an popular open source android rat. But the official AhMyth contains m
 
  ##### Prerequisites
  - Download binary for windows x64 from <a href="https://hidden-pirates.blogspot.com/2021/01/AhMyth-Modified-Version-By-Hidden-Pirates.html">here.</a>
- - Java 8 (to generate apk backdoor)
+ - Open JDK 8 (to generate apk backdoor)
  
 ## Screenshots
 
